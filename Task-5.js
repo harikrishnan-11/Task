@@ -185,4 +185,5 @@ let updatearray=users.map(users=>({
 
 updatearray.sort((a,b)=>b.salary-a.salary)
 
+
 console.log(updatearray)
